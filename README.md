@@ -6,7 +6,7 @@
 
 💡 I am enthusiastic about collaborating with like-minded individuals and organizations on projects.
 
-📬 Feel free to reach out to me at zelinhe0@outlook.com or LinkedIn: [LinkedIn Link].
+📬 Feel free to reach out to me at zelinhe0@outlook.com or on my LinkedIn profile [www.linkedin.com/in/zelin-he].
 
 Looking forward to engaging with fellow enthusiasts and making meaningful contributions together!
 
