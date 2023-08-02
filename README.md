@@ -1,4 +1,4 @@
-👋 Hello, I'm @ZLHe0
+👋 Hello, I'm Zelin He.
 
 🔬 As a dedicated PhD student in Statistics at Penn State, my passion lies in exploring transfer learning algorithms for large massive heterogeneous data.
 
