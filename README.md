@@ -1,8 +1,6 @@
 👋 Hello, I'm Zelin He.
 
-🔬 As a dedicated PhD student in Statistics at Penn State, my passion lies in exploring transfer learning algorithms for large massive heterogeneous data.
-
-🌱 Currently, I am immersed in expanding my expertise in cutting-edge machine learning techniques and methodologies.
+🌱 Currently, I am working on large language and vision-language models for time-series reasoning, as well as building transfer-learning and meta-learning methods for modeling large-scale, crowd-sourced datasets.
 
 💡 I am enthusiastic about collaborating with like-minded individuals and organizations on projects.
 
